@@ -15,4 +15,17 @@
 ### IBM Data Engineering 
 https://github.com/artificialrose/IBM_DB_engineer
 
+### CS50x 
+https://github.com/code50/129745681
+
+## Experience 
+- Moodle CMS
+- simple game development (python)
+- web app (javascript)
+- mobile app (kotlin)
+- scratch block coding ( teaching experience to kids 12-14 yrs)
+
+
+
+
 
