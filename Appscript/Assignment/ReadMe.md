@@ -1,0 +1,11 @@
+#  How to Run the Script
+- Open your Google Sheet.
+- Go to Extensions --> Apps Script.
+- Copy and paste the entire code from createAssignmentDocs.gs
+- into the script editor, replacing any existing code.
+- Save the script (click the floppy disk icon).
+- Refresh your Google Sheet page.
+- A new custom menu called "Assignment Tools" will appear.
+- Select Assignment Tools $\rightarrow$ Create Assignment Docs.
+- The first time you run it, you'll need to grant the script permissions to access Drive and your spreadsheet.
+- The script will alert you when it's finished!
