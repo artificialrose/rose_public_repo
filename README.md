@@ -23,7 +23,7 @@ https://github.com/code50/129745681
 - simple game development (python)
 - web app (javascript)
 - mobile app (kotlin)
-- scratch block coding ( teaching experience to kids 12-14 yrs)
+- scratch block coding ( teaching experience, ICT teacher to kids 12-14 yrs)
 
 
 
